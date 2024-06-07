@@ -1,4 +1,2 @@
 # Test
 Aayushman
-Monica
-Anoop
