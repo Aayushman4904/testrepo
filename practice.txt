@@ -1,0 +1,4 @@
+Hi everyone
+we are lerning File I/O
+using R
+I like programming in R
