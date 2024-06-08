@@ -1,3 +1,4 @@
+# Hi P
 """f = open("practice.txt","r")
 data = f.read()
 f.close()  #No effect without it
